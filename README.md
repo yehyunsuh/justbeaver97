@@ -12,7 +12,7 @@
 
 ## Project Timeline
 ### 2022
-- Pill Classification - TBU
+- [Reverse Pill Image Search](https://github.com/boostcampaitech3/final-project-level3-cv-16)
 - [Trash Data Semantic Segmentation](https://github.com/justbeaver97/level2-semantic-segmentation-level2-cv-16)
 - [Data Annotation using OCR](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16)
 - [Trash Data Object Detection](https://github.com/justbeaver97/level2-object-detection-level2-cv-16)
