@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 ## Education 
-- 2022.08~ Vanderbilt University, Masters of Science in Computer Science
+- 2022.08~ Vanderbilt University, Master of Science in Computer Science
 - 2016.03~2022.02 Dongguk University, Bachelor of Science in Information and Communication Engineering
 
 ## Extracurricular Activity
@@ -12,6 +12,7 @@
 
 ## Project Timeline
 ### 2022
+- [Deep learning-based determination of Risser stage trend using abdominal radiographs in Korean children(TBU)]()
 - [Reverse Pill Image Search](https://github.com/boostcampaitech3/final-project-level3-cv-16)
 - [Trash Data Semantic Segmentation](https://github.com/justbeaver97/level2-semantic-segmentation-level2-cv-16)
 - [Data Annotation using OCR](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16)
