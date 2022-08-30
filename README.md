@@ -1,8 +1,12 @@
 <!--### Hi there 👋-->
 
 ## Education 
-- 2022.08~ Vanderbilt University, Master of Science in Computer Science
+- 2022.08~Presnet Vanderbilt University, Master of Science in Computer Science
 - 2016.03~2022.02 Dongguk University, Bachelor of Science in Information and Communication Engineering
+
+## Research Experience 
+- 2022.05~2022.08 Seoul National University Hospital, Department of Radiology
+- 2020.03~2022.02 Dongguk University, Software Structure Laboratory
 
 ## Extracurricular Activity
 - 2022.01~2022.06 Boostcamp AI Tech, Naver Connect Foundation, Computer Vision Track
@@ -12,7 +16,7 @@
 
 ## Project Timeline
 ### 2022
-- [Deep learning-based determination of Risser stage trend using abdominal radiographs in Korean children(TBU)]()
+- [Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children](https://github.com/yisakk/JSH-Risser-AXR)
 - [Reverse Pill Image Search](https://github.com/boostcampaitech3/final-project-level3-cv-16)
 - [Trash Data Semantic Segmentation](https://github.com/justbeaver97/level2-semantic-segmentation-level2-cv-16)
 - [Data Annotation using OCR](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16)
