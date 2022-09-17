@@ -16,7 +16,7 @@
 
 ## Project Timeline
 ### 2022
-- [Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children](https://github.com/yisakk/JSH-Risser-AXR)
+- [Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children](https://github.com/justbeaver97/JSH-Risser-AXR)
 - [Reverse Pill Image Search](https://github.com/boostcampaitech3/final-project-level3-cv-16)
 - [Trash Data Semantic Segmentation](https://github.com/justbeaver97/level2-semantic-segmentation-level2-cv-16)
 - [Data Annotation using OCR](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16)
