@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 ## Education 
-- 2022.08~Presnet Vanderbilt University, Master of Science in Computer Science
+- 2022.08~ Vanderbilt University, Master of Science in Computer Science
 - 2016.03~2022.02 Dongguk University, Bachelor of Science in Information and Communication Engineering
 
 ## Research Experience 
