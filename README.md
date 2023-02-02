@@ -1,12 +1,17 @@
 <!--### Hi there 👋-->
 
 ## Education 
-- 2022.08~ Vanderbilt University, Master of Science in Computer Science
-- 2016.03~2022.02 Dongguk University, Bachelor of Science in Information and Communication Engineering
+<!--
+- 2023.08~Present Vanderbilt University, Ph.D. in Computer Science
+- 2022.08~2023.05 Vanderbilt University, M.S. in Computer Science
+-->
+- 2022.08~Present Vanderbilt University, M.S. in Computer Science
+- 2016.03~2022.02 Dongguk University, B.S. in Information and Communication Engineering
 
 ## Research Experience 
-- 2022.05~2022.08 Seoul National University Hospital, Department of Radiology
-- 2020.03~2022.02 Dongguk University, Software Structure Laboratory
+- 2022.09~Present Vanderbilt University, Moyer Laboratory, Department of Computer Science
+- 2022.05~2022.08 Seoul National University Hospital, iRAIL(innovative Radiology AI Laboratory), Department of Radiology
+- 2020.03~2022.02 Dongguk University, ISA(Intelligent Software Architecture) Laboratory, Department of Information and Communication Engineering
 
 ## Extracurricular Activity
 - 2022.01~2022.06 Boostcamp AI Tech, Naver Connect Foundation, Computer Vision Track
@@ -16,10 +21,8 @@
 
 ## Project Timeline
 ### 2022
-<!--
-- [Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children](https://github.com/justbeaver97/JSH-Risser-AXR)
--->
-- Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children(TBU)
+- [Total Knee Replacement Post-Surgical Assessment](https://github.com/yehyunsuh/2022-Fall-Research)
+- Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children
 - [Reverse Pill Image Search](https://github.com/boostcampaitech3/final-project-level3-cv-16)
 - [Trash Data Semantic Segmentation](https://github.com/justbeaver97/level2-semantic-segmentation-level2-cv-16)
 - [Data Annotation using OCR](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16)
